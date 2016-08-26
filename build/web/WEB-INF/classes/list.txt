@@ -1,0 +1,19 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 9271-AB4F
+
+ Directory of D:\Final Project\NetBeansProjects\jharkahnd5\build\web\WEB-INF\classes
+
+20-12-2015  PM 01:23    <DIR>          .
+20-12-2015  PM 01:23    <DIR>          ..
+01-08-2015  AM 11:27        12,992,327 javaee-doc-api.jar
+01-08-2015  AM 11:27            21,714 javax.annotation.jar
+01-08-2015  AM 11:27           103,799 jaxb-api-osgi.jar
+01-08-2015  AM 11:27            32,218 jstl-api.jar
+01-08-2015  AM 11:27           402,100 jstl-impl.jar
+20-12-2015  PM 01:23                 0 list.txt
+01-08-2015  AM 11:27           827,921 mysql-connector-java-5.1.23-bin.jar
+01-08-2015  AM 11:27            22,969 org-netbeans-modules-java-j2seproject-copylibstask.jar
+01-08-2015  AM 11:27         1,174,715 text_captcha.war
+01-08-2015  AM 11:27            51,029 webservices-api-osgi.jar
+              10 File(s)     15,628,792 bytes
+               2 Dir(s)  72,328,339,456 bytes free

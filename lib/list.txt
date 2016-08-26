@@ -1,0 +1,35 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 9271-AB4F
+
+ Directory of D:\Final Project\NetBeansProjects\jharkahnd5\lib
+
+20-12-2015  PM 01:20    <DIR>          .
+20-12-2015  PM 01:20    <DIR>          ..
+01-08-2015  AM 10:49            56,290 activation.jar
+01-08-2015  AM 10:49           571,259 commons-collections-3.2.jar
+01-08-2015  AM 10:49            38,015 commons-logging-1.0.4.jar
+27-11-2015  AM 02:23    <DIR>          CopyLibs
+01-08-2015  AM 10:49           650,608 core.jar
+01-08-2015  AM 10:49            48,585 cos.jar
+27-11-2015  AM 02:23    <DIR>          dist
+01-08-2015  AM 10:49            22,379 fileupload.jar
+01-08-2015  AM 10:49           340,318 filters-2.0.235.jar
+27-11-2015  AM 02:23    <DIR>          javaee-endorsed-api-6
+01-08-2015  AM 10:49           204,116 jcaptcha-2.0-alpha-1-SNAPSHOT.jar
+01-08-2015  AM 10:49             6,190 jcaptcha-api-1.0.jar
+01-08-2015  AM 10:49            10,329 jcaptcha-integration-simple-servlet-2.0-alpha-1-SNAPSHOT.jar
+27-11-2015  AM 02:23    <DIR>          jstl
+01-08-2015  AM 10:49            20,512 jstl.jar
+20-12-2015  PM 01:20                 0 list.txt
+01-08-2015  AM 10:49           434,812 mail.jar
+01-08-2015  AM 10:49           703,265 mysql-connector-java-5.1.6-bin.jar
+27-11-2015  AM 02:23    <DIR>          MySQLDriver
+01-08-2015  AM 10:44               177 nblibraries.properties
+01-08-2015  AM 10:49         1,536,797 ojdbc14.jar
+01-08-2015  AM 10:49            77,977 servlet-api-2.3.jar
+01-08-2015  AM 10:49             2,656 SMSApi.jar
+01-08-2015  AM 10:49           388,851 standard.jar
+01-08-2015  AM 10:49           498,051 struts.jar
+01-08-2015  AM 10:49            32,471 uploadbean.jar
+              21 File(s)      5,643,658 bytes
+               7 Dir(s)  72,328,347,648 bytes free

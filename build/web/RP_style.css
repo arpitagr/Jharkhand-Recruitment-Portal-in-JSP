@@ -1,0 +1,71 @@
+﻿body
+{
+    /*background-color:#70F7CF;*/
+}
+#templatemo_header_wrapper {
+	width: 100%;
+	height: 100px;
+	margin:auto;
+	background: #19446a url(../images/templatemo_header_bg.jpg) repeat-x;
+}
+
+/* menu */
+#templatemo_menu_wrapper {
+	clear: both;
+	width: 100%;
+	height: 41px;
+	
+	background: url(../images/templatemo_menu_bg.jpg) repeat-x;
+}
+
+#templatemo_menu {
+margin:auto;	width: 800px;	height: 41px;
+	
+}
+
+#templatemo_menu ul {
+	margin: 0 0 0 28px;
+	padding: 0px;
+	list-style: none;
+	
+}
+
+#templatemo_menu ul li {
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+#templatemo_menu ul li ul{
+	padding: 0px;
+	margin: 0px;
+	display: none;
+}
+#templatemo_menu ul li a {
+	float: left;
+	display: block;
+	height: 22px;
+	width: 128px;
+	padding: 13px 0 0 0;
+	background: url(../images/templatemo_menu.jpg) bottom no-repeat;
+	text-align: center;
+	font-size: 14px;
+	text-decoration: none;
+	color: #FFF;	
+	font-weight: bold;
+	outline: none;
+}
+
+#templatemo_menu li a:hover,#templatemo_menu li a:active, #templatemo_menu li .current {
+	color: #000;
+	background: url(../images/templatemo_menu_hover.jpg) bottom no-repeat;
+}
+
+/* end of menu*/
+.footer_div
+{
+    margin:5px auto;
+    width:100%;
+    background-color:#111D28;
+}.validate[required] {
+
+}

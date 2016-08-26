@@ -1,0 +1,29 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 9271-AB4F
+
+ Directory of D:\Final Project\NetBeansProjects\jharkahnd5\build\web\WEB-INF\lib
+
+20-12-2015  PM 01:22    <DIR>          .
+20-12-2015  PM 01:22    <DIR>          ..
+01-08-2015  AM 11:27            56,290 activation.jar
+01-08-2015  AM 11:27           571,259 commons-collections-3.2.jar
+01-08-2015  AM 11:27            38,015 commons-logging-1.0.4.jar
+01-08-2015  AM 11:27           650,608 core.jar
+01-08-2015  AM 11:27            48,585 cos.jar
+01-08-2015  AM 11:27            22,379 fileupload.jar
+01-08-2015  AM 11:27           340,318 filters-2.0.235.jar
+01-08-2015  AM 11:27           204,116 jcaptcha-2.0-alpha-1-SNAPSHOT.jar
+01-08-2015  AM 11:27             6,190 jcaptcha-api-1.0.jar
+01-08-2015  AM 11:27            10,329 jcaptcha-integration-simple-servlet-2.0-alpha-1-SNAPSHOT.jar
+01-08-2015  AM 11:27            20,512 jstl.jar
+20-12-2015  PM 01:22                 0 list
+01-08-2015  AM 11:27           434,812 mail.jar
+01-08-2015  AM 11:27           703,265 mysql-connector-java-5.1.6-bin.jar
+01-08-2015  AM 11:27         1,536,797 ojdbc14.jar
+01-08-2015  AM 11:27            77,977 servlet-api-2.3.jar
+01-08-2015  AM 11:27             2,656 SMSApi.jar
+01-08-2015  AM 11:27           388,851 standard.jar
+01-08-2015  AM 11:27           498,051 struts.jar
+01-08-2015  AM 11:27            32,471 uploadbean.jar
+              20 File(s)      5,643,481 bytes
+               2 Dir(s)  72,328,343,552 bytes free
